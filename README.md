@@ -1,9 +1,5 @@
 ### Hi there 👋
 ### I'm Arun ☺
-
-
-
-
 <br>
 <br>
 
@@ -35,6 +31,7 @@
 
 ![arunmishra2000's github stats](https://github-readme-stats.vercel.app/api?username=arunmishra2000&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunmishra2000&hide=TeX&layout=compact&theme=dracula)
 <!--
 **arunmishra2000/arunmishra2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
