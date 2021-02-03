@@ -19,6 +19,14 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 
+<br>
+<br>
+
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=arunmishra2000&show_icons=true&theme=dracula)
+
 <!--
 **arunmishra2000/arunmishra2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
