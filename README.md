@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### I'm Arun ☺
+### I'm a Web Developer currently working on React
 <br>
 <br>
 
