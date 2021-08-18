@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm Arun ☺
-### I'm a Web Developer currently working on React
+### I'm a Web Developer currently working on React, Node, Microservices, SSR.
 <br>
 <br>
 
