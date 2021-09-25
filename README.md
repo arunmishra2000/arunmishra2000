@@ -29,11 +29,15 @@
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
+<strong><h3>Lanaguages </h3></strong>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunmishra2000&layout=compact&theme=tokyonight)]
 
-![arunmishra2000's github stats](https://github-readme-stats.vercel.app/api?username=arunmishra2000&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunmishra2000&hide=TeX&layout=compact&theme=dracula)
-<!--
+<strong><h3> My GitHub Stats </h3></strong>
+<a align="center" href="https://github.com/arunmishra2000">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arunmishra2000&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true" alt="Git Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arunmishra2000&theme=tokyonight" alt="Streak" />
+</a>
 **arunmishra2000/arunmishra2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
