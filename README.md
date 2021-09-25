@@ -30,7 +30,7 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 <strong><h3>Lanaguages </h3></strong>
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=arunmishra2000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunmishra2000&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <strong><h3> My GitHub Stats </h3></strong>
 <a align="center" href="https://github.com/arunmishra2000">
